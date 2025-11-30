@@ -1,0 +1,14 @@
+# KiCad backup files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.kicad_dru-bak
+
+# Autosave and recovery files
+*.kicad_pcb.autosave
+*.kicad_sch.autosave
+*.kicad_pcb-bak*
+*.kicad_sch-bak*
+*~*
+
+innotion-pll-backups/
