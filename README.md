@@ -53,6 +53,4 @@ Typical use cases:
 ## ⚠️ Notes / Limitations
 - The Innotion YSGM556006 is a very low cost ($1.5/ea) VCO, and has poor performance. This board was an attempt to test the feasibility of its use in a PLL.
 - This test board is **not** a finalized RF product — it’s meant for bench characterization.  
-- Ensure your RF chain and measurement equipment can safely handle 5–6 GHz.
-
-## 📁 Repo Structure
+- Ensure your RF chain and measurement equipment can safely handle 5–6 GHz at around 0 dBm.
